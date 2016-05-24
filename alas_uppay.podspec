@@ -7,10 +7,10 @@ Pod::Spec.new do |s|
   s.description  = "用来以后方便使用uppay"
 
   s.homepage     = "https://github.com/chenlinyuan"
-  s.license      = { :type => "MIT", :file => "../LICENSE" }
+  s.license      = "MIT"
   s.author             = { "chenlinyuan" => "ala.s743k@gmail.com" }
   s.platform     = :ios, "7.0"
-  s.source       = { :git => "https://github.com/743K/dev.git", :tag => "#{s.version}" }
+  s.source       = { :git => "https://github.com/chenlinyuan/uppay.git", :tag => "#{s.version}" }
 
 #  s.resource  = "AlipaySDK.bundle"
 
