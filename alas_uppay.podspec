@@ -2,7 +2,7 @@
 Pod::Spec.new do |s|
 
   s.name         = "alas_uppay"
-  s.version      = "1.0"
+  s.version      = "1.1"
   s.summary      = "alas_uppay."
   s.description  = "I don't use Chinese uppay"
 
